@@ -1,0 +1,13 @@
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\bin\Debug\SteamIdToGuid.exe.config
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\bin\Debug\SteamIdToGuid.exe
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\bin\Debug\SteamIdToGuid.pdb
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid.csprojResolveAssemblyReference.cache
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\MainWindow.baml
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\MainWindow.g.cs
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\App.g.cs
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid_MarkupCompile.cache
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid.g.resources
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid.Properties.Resources.resources
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid.csproj.GenerateResource.Cache
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid.exe
+I:\VS Projects\SteamIdToGuid\SteamIdToGuid\obj\Debug\SteamIdToGuid.pdb
