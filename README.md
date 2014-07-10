@@ -1,6 +1,6 @@
 steamidtoguid
 =============
-A simple app to convert a steam id into a guid for ARMA2,3 and DayZ Standalone.
+A simple app to convert a steam id into a guid for ARMA 2, 3 and DayZ Standalone.
 
 Credit
 
